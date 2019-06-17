@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name="Test" NumPts="37" Millseconds="0" AppName="Recognizer.Dollar" AppVer="5.0.2.0" Date="Tuesday, April 5, 2016" TimeOfDay="1:01:31 PM">
+  <Point X="191" Y="38" T="0" />
+  <Point X="187" Y="36" T="0" />
+  <Point X="184" Y="36" T="0" />
+  <Point X="183" Y="35" T="0" />
+  <Point X="182" Y="35" T="0" />
+  <Point X="181" Y="35" T="0" />
+  <Point X="180" Y="35" T="0" />
+  <Point X="177" Y="35" T="0" />
+  <Point X="173" Y="37" T="0" />
+  <Point X="168" Y="40" T="0" />
+  <Point X="162" Y="44" T="0" />
+  <Point X="156" Y="50" T="0" />
+  <Point X="148" Y="55" T="0" />
+  <Point X="141" Y="61" T="0" />
+  <Point X="135" Y="69" T="0" />
+  <Point X="130" Y="76" T="0" />
+  <Point X="127" Y="83" T="0" />
+  <Point X="125" Y="90" T="0" />
+  <Point X="125" Y="99" T="0" />
+  <Point X="125" Y="107" T="0" />
+  <Point X="125" Y="115" T="0" />
+  <Point X="130" Y="124" T="0" />
+  <Point X="135" Y="130" T="0" />
+  <Point X="140" Y="136" T="0" />
+  <Point X="146" Y="142" T="0" />
+  <Point X="154" Y="147" T="0" />
+  <Point X="162" Y="149" T="0" />
+  <Point X="170" Y="151" T="0" />
+  <Point X="180" Y="151" T="0" />
+  <Point X="188" Y="151" T="0" />
+  <Point X="199" Y="151" T="0" />
+  <Point X="209" Y="147" T="0" />
+  <Point X="216" Y="143" T="0" />
+  <Point X="222" Y="139" T="0" />
+  <Point X="228" Y="135" T="0" />
+  <Point X="230" Y="133" T="0" />
+  <Point X="231" Y="130" T="0" />
+</Gesture>
